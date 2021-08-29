@@ -1,0 +1,7 @@
+Nisin	Strains	Model	Model_wt	p	delta	tc	lag	mumax	LOG10Nmax
+0_ppm	c1-111	baranyi_without_lag	1	NA	NA	NA	NA	0.18	8.55
+0_ppm	f2-237	baranyi_without_lag	0.5	NA	NA	NA	NA	0.18	8.52
+0_ppm	f2-237	buchanan_without_lag	0.5	NA	NA	NA	NA	0.16	8.51
+0_ppm	f6-366	baranyi_without_lag	0.51	NA	NA	NA	NA	0.27	8.55
+0_ppm	f6-366	buchanan_without_lag	0.49	NA	NA	NA	NA	0.25	8.55
+0_ppm	l3-051	buchanan_without_lag	1	NA	NA	NA	NA	0.15	8.23

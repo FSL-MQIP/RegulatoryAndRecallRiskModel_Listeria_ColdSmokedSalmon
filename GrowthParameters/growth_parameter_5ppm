@@ -1,0 +1,5 @@
+Nisin	Strains	Model	Model_wt	p	delta	tc	lag	mumax	LOG10Nmax
+5_ppm	c1-111	weibull_buchanan_without_lag	1	0.02	7.222e-05	8.5	NA	0.35	8.1
+5_ppm	f6-366	weibull_baranyi_without_lag	1	0.65	0.48	0.64	NA	0.16	8.24
+5_ppm	l3-051	weibull_buchanan_without_lag	0.5	0.75	0.54	1.62	NA	0.36	7.41
+5_ppm	l3-051	weibull_baranyi_without_lag	0.5	0.75	0.54	1.67	NA	0.38	7.4
